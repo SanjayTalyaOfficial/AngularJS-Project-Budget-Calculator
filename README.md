@@ -1,1 +1,1 @@
-# angular-budget-calculator
+# AngularJS-Project-budget-calculator
